@@ -1,0 +1,26 @@
+---
+frame_hue: 1.0
+title: Detectar puertas secretas
+cost:  V,S. 60ft. 6"
+class: Mago (1)
+collection: Adivinación
+artist: Con. 1'/nivel
+stats: ---
+text: >
+    Puedes detectar puertas secretas, compartimentos, escondrijos, y similares,
+    sólo si han sido deliberadamente ocultadas.
+
+
+    Asalto 1: Presencia o ausencia de puertas secretas.
+
+    Asalto 2: Su número y localización o su dirección general.
+
+    Cada asalto adicional: El mecanismo o desencadenante de un portal secreto
+    en particular examinado detenidamente por ti.
+
+
+    Cada asalto, puedes enfocar una nueva área.
+
+
+    Puede penetrar barreras, pero 1ft. de piedra, 1 pulgada de metal,
+    un delgada lámina de plomo o 3ft. de madera o tierra lo bloquean.

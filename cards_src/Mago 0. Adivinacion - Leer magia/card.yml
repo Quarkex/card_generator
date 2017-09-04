@@ -1,0 +1,22 @@
+---
+frame_hue: 1.0
+title: Leer magia
+cost:  V,S,F. Personal 6"
+class: Mago (0)
+collection: Adivinación
+artist: Con. 10'/nivel
+stats: ---
+text: >
+    Puedes descifrar inscripciones mágicas que de otro modo serían ininteligibles.
+    Esto no suele invocar la magia en la escritura, pero puede hacerlo (maldiciones,
+    trampas, etc.).
+
+
+    Puedes leer una página (250 palabras)/minuto, y se puede releer lo ya leído sin
+    relanzar el conjuro.
+
+
+    Te permite identificar un glifo custodio con una prueba de Con. de conjuros con CD
+    13, un glifo custodio mayor con una prueba de Conocimiento de conjuros con CD
+    16, o cualquier conjuro de símbolo con una prueba de Conocimiento de conjuros
+    (CD 10 + nivel de conjuro).

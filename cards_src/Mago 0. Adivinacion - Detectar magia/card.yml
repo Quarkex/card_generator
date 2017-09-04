@@ -1,0 +1,23 @@
+---
+frame_hue: 1.0
+title: Detectar magia
+cost:  V,S. 60ft. 6"
+class: Mago (0)
+collection: Adivinación
+artist: Con. 1'/nivel
+stats: ---
+text: >
+    Detectas auras mágicas en un cono frente a ti. La cantidad de información depende del tiempo que estudies el área o sujeto.
+
+
+    Asalto 1: Presencia o ausencia de auras mágicas.
+
+    Asalto 2: N. de auras diferentes y el poder de la más potente.
+
+    Asalto 3: La fuerza y localización de cada aura.
+
+
+    Si el objeto o criatura que tenga el aura está en tu línea de visión, puedes hacer pruebas de habilidad de Saber (arcano) para determinar la escuela de magia implicada en cada una.
+
+
+    Si el aura emana de un objeto, puedes tratar de identificar sus propiedades.

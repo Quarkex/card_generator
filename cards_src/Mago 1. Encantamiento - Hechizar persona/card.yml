@@ -1,0 +1,24 @@
+---
+frame_hue: 1.0
+title: Hechizar persona
+cost:  V,S. 25ft. 6"
+class: Mago (1)
+collection: Encantamiento
+artist: 1h/nivel
+stats: Voluntad
+text: >
+    El alcance aumenta 5ft. cada 2 niveles.
+
+    Este conjuro hace que una criatura humanoide te considere su amigo y
+    aliado de confianza. Si la criatura es amenazada o atacada por tu grupo
+    aparente, recibe +5 a su TS.
+
+
+    El conjuro no te permite controlar a la persona hechizada como si fuera un
+    autómata. Puedes intentar dar órdenes al sujeto, y debes vencer una prueba
+    de CAR para convencerle de que haga algo que normalmente no haría
+    (sin reintentos). Nunca obedecerá órdenes poco razonables.
+
+
+    Cualquier acto de tu grupo aparente que amenace a la persona hechizada rompe
+    el conjuro.

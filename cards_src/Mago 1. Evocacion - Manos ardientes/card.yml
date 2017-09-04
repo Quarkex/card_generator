@@ -1,0 +1,21 @@
+---
+frame_hue: 1.0
+title: Manos ardientes
+cost:  V,S. 15ft. 6"
+class: Mago (1)
+collection: Evocación
+artist: Inst.
+stats: Voluntad/2, RaM
+text: >
+    Un cono de llamas abrasadoras sale de las puntas de tus dedos.
+
+
+    Cualquier criatura en el área de las llamas recibe 1d4 puntos de
+    daño por fuego por nivel de lanzador (máximo 5d4).
+
+
+    Los materiales inflamablas arden cuando las llamas los tocan.
+
+
+    Un personaje puede extinguir los objetos ardiendo como acción de
+    asalto completo.

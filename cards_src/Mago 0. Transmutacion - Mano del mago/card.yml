@@ -1,0 +1,19 @@
+---
+frame_hue: 1.0
+title: Mano del mago
+cost:  V,S. 25ft. 6"
+class: Mago (0)
+collection: Transmutación
+artist: Con.
+stats: ---
+text: >
+    El alcance aumenta 5ft. cada 2 niveles.
+
+
+    Señalas un objeto con tu dedo (desatendido y no mágico de hasta 5 lb.) y
+    el conjuro te permite elevarlo y moverlo desde lejos.
+
+
+    Usando una acción equivalente a moverse, podrás desplazarlo hasta 15ft.
+    en cualquier dirección, aunque el efecto finalizaría si el objeto en
+    cuestión llegara a exceder en cualquier momento el alcance del sortilegio.

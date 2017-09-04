@@ -1,0 +1,32 @@
+---
+frame_hue: 1.0
+title: Proyectil mágico
+cost:  V,S. 100ft. 6"
+class: Mago (1)
+collection: Evocación
+artist: Inst.
+stats: RaM
+text: >
+    El alcance aumenta 10ft. cada nivel. Hasta 5 criaturas objetivo con menos
+    de 15ft. entre ellas.
+
+
+    Un proyectil de energía mágica sale disparado de las llemas de tus dedos
+    e impacta a su objetivo, causando 1d4+1 puntos de daño por fuerza.
+
+
+    El proyectil impacta sin error, incluso si el objetivo está en medio de un
+    combate cuerpo a cuerpo, siempre que al menos posea menos de cobertura total u
+    ocultación total.
+
+
+    No se pueden elegir partes específicas de una criatura. Los objetos no
+    pueden ser dañados por el conjuro.
+
+
+    Por cada dos niveles de lanzador más allá del primero, obtienes un
+    proyectil adicional (dos a nivel 3, tres a nivel 5, cuatro a nivel 7 y el
+    máximo de 5 proyectiles a nivel 9 o superior). Si disparas múltiples
+    proyectiles, puede hacer que impacten a una única criatura o a varias. Un
+    único proyectil sólo puede impactar a una criatura. Debes elegir los
+    objetivos antes de comprobar la resistencia mágica o tirar el daño.

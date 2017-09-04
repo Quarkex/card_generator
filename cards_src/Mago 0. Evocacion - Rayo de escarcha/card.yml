@@ -1,0 +1,18 @@
+---
+frame_hue: 1.0
+title: Rayo de escarcha
+cost:  V,S. 25ft. 6"
+class: Mago (0)
+collection: Evocación (Frío)
+artist: Instantáneo
+stats: RaM
+text: >
+    1d3 (frío).
+
+
+    El alcance aumenta 5ft. cada 2 niveles.
+
+
+    Un rayo de hielo y aire frío surge de tu dedo índice.
+    Debes tener éxito en un ataque de toque a distancia
+    con el rayo para dañar al objetivo. 

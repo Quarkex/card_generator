@@ -1,0 +1,20 @@
+---
+frame_hue: 1.0
+title: Armadura del mago
+cost:  V,S, M. Toque. 6"
+class: Mago (1)
+collection: Conjuración (creación)
+artist: 1h/nivel
+stats: ---
+text: >
+    Requiere un trozo de cuero curtido.
+
+
+    Un campo invisible pero tangible de fuerza rodea al sujeto de un hechizo de
+    armadura de mago, ofreciéndole una bonificación de armadura de +4 al CA.
+
+
+    A diferencia de la armadura mundana,la armadura de mago no supone ningún
+    penalizador de armadura, ninguna chance de fallar un conjuro o reducción de
+    velocidad. Como armadura de mago esta hecha de fuerza, las criaturas
+    incorpóreas no la pueden pasar por alto como lo hacen con una armadura normal.
